@@ -7,3 +7,4 @@ Repository created to study Node.js fundamentals.
 - Native modules
 - NPM
 - ES Modules
+- Publishing Modules on NPM

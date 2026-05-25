@@ -1,0 +1,15 @@
+{
+  "name": "@mardoqueumartins/package-exercise",
+  "version": "1.0.2",
+  "description": "Module created and published for study purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fullstackclub"
+  ],
+  "author": "Mardoqueu Martins",
+  "license": "ISC",
+  "type": "module"
+}
