@@ -1,4 +1,4 @@
-# Node.js Fundamentals
+# Node.js Studies
 
 Repository created to study Node.js fundamentals.
 
